@@ -405,7 +405,7 @@ footer yl li a {
     }
 
     .team__member {
-        padding: 0;
+        padding: 1rem;
     }
 
     .team__member p {
